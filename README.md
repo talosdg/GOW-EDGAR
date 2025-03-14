@@ -1,5 +1,5 @@
 # GOW-EDGAR
 Incluye
-- Traduccion a frances
+- Traducción a frances
 - Sección Personajes
 - Sección Mercancias
