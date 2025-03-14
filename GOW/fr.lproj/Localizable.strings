@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  GOW
+
+  Created by Edgar Vargas on 13/03/25.
+  
+*/
+
+/* MENU*/
+"menu.option.videogames" = "Jeux vidéo";
+"menu.option.weapons" = "Armes";
+"menu.option.characters" = "Personnage";
+"menu.option.merchandise" = "Merchandise";
+
+
+/* WEAPONS */
+"weapon.name.boomshot" = "Lance-grenades Boomshot";
+"weapon.description.boomshot" = "C'était un lance-grenades à pompe à tir unique conçu et utilisé principalement par les Locustes, en particulier par les Boomers.";
+"weapon.name.hammerburstii" = "Hammerburst II";
+"weapon.description.hammerburstii" = "C'était le fusil d'assaut standard à haute puissance des Locustes. Il est souvent appelé le fusil d'assaut équivalent des Locustes au fusil d'assaut COG Lancer.";
+"weapon.name.mulcher" = "Mulcher";
+"weapon.description.mulcher" = "Le Mulcher est un lourd fusil Gatling rotatif à manivelle développé par la Coalition des Gouvernements Ordonnés.";
+"weapon.name.bolo_grenade" = "Grenade Bolo";
+"weapon.description.bolo_grenade" = "La Bolo Grenade, également connue sous le nom de Grenade à fragmentation, était la grenade à fragmentation standard utilisée par la Coalition des Gouvernements Ordonnés, l'Ordre des Locustes et le Swarm.";
+"weapon.name.boltok" = "Pistolet Boltok";
+"weapon.description.boltok" = "C'était l'arme standard des Locustes, en particulier des Drones. Le pistolet suit la philosophie de conception des armes des Locustes, créant des armes axées sur la force brute.";
+"weapon.name.lancer" = "Fusil d'assaut Lancer Mark 1";
+"weapon.description.lancer" = "Surnommé Retro Lancer pendant la pandémie Lambent, il était le prédécesseur du fusil d'assaut Lancer Mark 2. Anciennement le fusil d'assaut principal de l'armée de la Coalition des Gouvernements Ordonnés, le fusil d'assaut Mark 1 a été utilisé pendant la guerre de Pendulum.";
+"weapon.name.lancer2" = "Fusil d'assaut Lancer Mark 2";
+"weapon.description.lancer2" = "Une mise à jour du fusil d'assaut Lancer Mark 1, produit avec une baïonnette à tronçonneuse, une plus grande précision, moins de recul et une capacité de charge des munitions plus grande, mais une puissance de feu inférieure à celle de son prédécesseur.";
+"weapon.name.sniper" = "Fusil de sniper à tir longue portée";
+"weapon.description.sniper" = "C'était un fusil de sniper à tir unique de gros calibre. Créé par la Coalition des Gouvernements Ordonnés pendant les guerres de Pendulum, le Longshot a été utilisé encore dix-sept ans après le Jour de l'Émergence.";
+"weapon.name.hammer_of_dawn" = "Le marteau de l'aube";
+"weapon.description.hammer_of_dawn" = "Le Marteau de l'Aube était un laser orbital, basé sur un satellite, alimenté par de l'Imulsion COG. Ses composants clés ont été inventés par le scientifique de l'UIR Mauris Ivo et complétés par le professeur Adam Fenix après avoir été volés lors de l'Opération : Nivelleur.";
+"weapon.name.mx8" = "Pistolet snub MX8";
+"weapon.description.mx8" = "C'était l'arme de poing standard pour le personnel des forces armées de la Coalition des Gouvernements Ordonnés.";
+
+
+"merchandise.item.shirt" = "Chemise";
+"merchandise.item.funko" = "Funko";
+"merchandise.item.backpack" = "Sac à dos";
+"merchandise.item.poster" = "Affiche";
+"merchandise.item.hoodie" = "Sweat-shirt";
+"merchandise.item.mug" = "Tasse";
+"merchandise.item.doll" = "Poupée";
+
